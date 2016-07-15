@@ -8,7 +8,7 @@
       "properties" : {
         "bitmask": {
           "type": "integer",
-          "minimum": 1,
+          "minimum": 0,
           "maximum": 7,
           "description": "The value is a bitmask encoded as integer and indicates the provisioning operation modes",
           "detail-desc": [  "1 - Server-directed utilzing multiple provisioning services",
